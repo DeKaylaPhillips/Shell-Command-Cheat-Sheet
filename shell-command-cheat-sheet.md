@@ -58,7 +58,7 @@
 
 7. % **mv**
 
-    *move*
+    - *move*
     - move files and directories
     - rename files and directories
     `% mv file.md NewFolder/` - move file to new location
